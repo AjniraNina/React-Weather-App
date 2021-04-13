@@ -1,0 +1,15 @@
+.color-divider {
+    height: 15px;
+    background-image: linear-gradient(to right, #F5BA7A , #ED5DAE, #ED5CAF);
+    margin: 30px -10px 60px -10px;
+}
+
+.cityimage {
+    margin: -30px -10px 0px -10px;
+}
+
+.currentweather {
+    background-color: rgba(56, 27, 117, 0.66);
+    margin-top: -30px;
+    padding-top: 30px;
+}

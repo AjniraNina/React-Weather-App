@@ -1,0 +1,16 @@
+.hourlytime {
+    font-weight: 300;
+    font-size: 8px;
+}
+
+.hourlyicon {
+    font-size: 30pt;
+    line-height: 20%;
+    color: #ED61AB;
+}
+
+.hourlytemp {
+    font-weight: 600;
+    font-size: 12px;
+
+}

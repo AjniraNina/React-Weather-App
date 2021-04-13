@@ -1,0 +1,26 @@
+.HourlyWeather {
+    display: flex;
+    background-color: #381677;
+    margin: 20px -10px;
+}
+
+.HWList {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+}
+
+.HWList ul {
+    display: flex;
+    /* flex-direction: column; */
+    padding-inline-start: 0px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.HWList li {
+    list-style: none;
+    text-align: center;
+}

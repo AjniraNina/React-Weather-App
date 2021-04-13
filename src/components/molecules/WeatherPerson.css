@@ -1,0 +1,8 @@
+a.weather-person-container {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    margin-right: 20px;
+}

@@ -1,0 +1,35 @@
+.DWblock {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.DWtempblock {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-right: 15px;
+}
+
+.DWtitle {
+    font-size: 25px;
+    margin: 0px;
+    padding-left: 15px;
+}
+
+.DWicon {
+    color: #ED61AB;
+    font-size: 40pt;
+    line-height: 20%;
+}
+
+.DWmaxmin {
+    font-size: 30px;
+
+}
+
+/* .daily-weather {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */

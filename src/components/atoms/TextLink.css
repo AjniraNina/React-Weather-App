@@ -1,0 +1,19 @@
+.TextLink {
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+    text-align: center;
+}
+
+.complaintlink {
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.changecitylink {
+    font-size: 10px;
+}
+
+.regretlink {
+    font-size: 10px;
+}
